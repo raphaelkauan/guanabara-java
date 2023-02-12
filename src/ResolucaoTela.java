@@ -6,7 +6,7 @@ public class ResolucaoTela {
         int width = (int)size.getWidth();
         int height = (int)size.getHeight();
 
-      System.out.println("Current Screen resolution : "
+      System.out.println("Sua tela está com a seguinte resolução : "
         + "width : " + width
         + " height : " + height);
   }
