@@ -9,6 +9,6 @@ public class TiposPrimitivos {
     System.out.println("Digite a nota do Aluno: ");
     float nota = teclado.nextFloat();
 
-    System.out.println("O nome do aluno é " + nome + " E sua nota é " + nota);
+    System.out.println("O nome do aluno e " + nome + " E sua nota e " + nota);
   }
 }
