@@ -1,3 +1,4 @@
+package curso.gustavo.guanabara.java;
 import java.awt.*;
 
 public class ResolucaoTela {

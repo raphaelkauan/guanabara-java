@@ -1,3 +1,4 @@
+package curso.gustavo.guanabara.java;
 import java.util.Scanner;
 import java.util.Locale;
 
