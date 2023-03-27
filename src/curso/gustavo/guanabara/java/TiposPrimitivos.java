@@ -1,4 +1,5 @@
 package curso.gustavo.guanabara.java;
+
 import java.util.Scanner;
 
 public class TiposPrimitivos {
@@ -12,4 +13,5 @@ public class TiposPrimitivos {
 
     System.out.println("O nome do aluno e " + nome + " E sua nota e " + nota);
   }
+
 }

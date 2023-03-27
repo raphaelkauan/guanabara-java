@@ -1,4 +1,5 @@
 package curso.gustavo.guanabara.java;
+
 import java.util.Date;
 
 //import java.util.*;
@@ -8,4 +9,5 @@ public class HoraSistema {
     Date relogio = new Date();
     System.out.println("A hora do Sistema e: " + relogio);
   }
+
 }

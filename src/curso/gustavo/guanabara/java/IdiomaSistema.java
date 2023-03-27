@@ -1,4 +1,5 @@
 package curso.gustavo.guanabara.java;
+
 import java.util.*;
 
 public class IdiomaSistema {
@@ -6,4 +7,5 @@ public class IdiomaSistema {
     Locale idioma = Locale.getDefault();
     System.out.println("Seu idioma está em " + idioma.getDisplayLanguage());
   }
+
 }
